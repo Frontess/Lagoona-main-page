@@ -1,5 +1,11 @@
 ## Стартовая страница сервиса для планирования путешествий - Lagoona   
 
+<img width="1352" alt="Снимок экрана 2024-04-29 в 18 03 57" src="https://github.com/Frontess/Lagoona-main-page/assets/127450758/249f028b-1221-48b2-8b18-f3ea0e9d63a0">
+
+<img width="1325" alt="Снимок экрана 2024-04-29 в 18 04 36" src="https://github.com/Frontess/Lagoona-main-page/assets/127450758/b8df74aa-6271-42f5-97bb-dce5a6c28e30">
+
+<img width="1292" alt="Снимок экрана 2024-04-29 в 18 05 10" src="https://github.com/Frontess/Lagoona-main-page/assets/127450758/96cd2252-7012-48c2-b6f9-7eb6f4425215">
+
 
 :ocean: Реализована наваигация по нескольким тематическим разделом.
 
